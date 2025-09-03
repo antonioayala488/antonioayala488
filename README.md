@@ -6,7 +6,7 @@
   - [Product Reviews](https://github.com/wtamucis/homework-6-antonioayala488.git)
   - [Model Binding Tutorial](https://github.com/wtamucis/lab-4-antonioayala488.git)
   - [Razor Page and Page Model](https://github.com/wtamucis/homework-2-antonioayala488.git)
-  - 
+    
 - <b>Mobile Application Development (Android Studio, Kotlin)</b>
   - [Dinosaur App](https://github.com/antonioayala488/DinosaursApp.git)
   - [Clickbait App](https://github.com/antonioayala488/Clickbait.git)
