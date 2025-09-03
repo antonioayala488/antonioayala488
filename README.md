@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1>Hi, I'm Antonio! </h1>
 
-<!--
-**antonioayala488/antonioayala488** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 IT Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Web Application Projects (.NET Applications)</b>
+  - [Product Reviews](https://github.com/wtamucis/homework-6-antonioayala488.git)
+  - [Model Binding Tutorial](https://github.com/wtamucis/lab-4-antonioayala488.git)
+  - [Razor Page and Page Model](https://github.com/wtamucis/homework-2-antonioayala488.git)
+  - 
+- <b>Mobile Application Development (Android Studio, Kotlin)</b>
+  - [Dinosaur App](https://github.com/antonioayala488/DinosaursApp.git)
+  - [Clickbait App](https://github.com/antonioayala488/Clickbait.git)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Python</b>
+  - [Social Media Post Analysis](https://colab.research.google.com/drive/1BdFOTXzs42ZVmALfn45FFR2jWKLisTQX?usp=sharing)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: https://linkedin.com/in/antonio-ayala-information-systems
+
+
